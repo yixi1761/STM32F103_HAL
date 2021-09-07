@@ -15,5 +15,4 @@
 *.py[cod]
 *.log
 
-/docker_compose/django_blog.tar
 
